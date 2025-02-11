@@ -1,10 +1,11 @@
 import React from "react";
-import Todos from "./Component/Todos";
+// import Todos from "./Component/Todos";
+import Products from "./Component/Products";
 
 function App() {
   return (
     <div>
-      <Todos />
+      <Products />
     </div>
   );
 }
